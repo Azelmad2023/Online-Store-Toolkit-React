@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Online-Store-Toolkit-React/static/css/main.376d0ef6.css",
+    "main.js": "/Online-Store-Toolkit-React/static/js/main.79170c6a.js",
+    "static/media/img1.webp": "/Online-Store-Toolkit-React/static/media/img1.ad3621ae0bee8d6b2acb.webp",
+    "static/media/cat1.webp": "/Online-Store-Toolkit-React/static/media/cat1.84466efaf40a105d14c3.webp",
+    "static/media/img3.webp": "/Online-Store-Toolkit-React/static/media/img3.b26577e5965e42db40c9.webp",
+    "static/media/img2.webp": "/Online-Store-Toolkit-React/static/media/img2.0257150d6b6a12177f57.webp",
+    "static/media/cat4.webp": "/Online-Store-Toolkit-React/static/media/cat4.1f693e88caee2eb182e9.webp",
+    "static/media/cat3.webp": "/Online-Store-Toolkit-React/static/media/cat3.1eac9b8d319a9838a940.webp",
+    "static/media/cat2.webp": "/Online-Store-Toolkit-React/static/media/cat2.3b27a3219eee1a2ed0c1.webp",
+    "static/media/notfound.png": "/Online-Store-Toolkit-React/static/media/notfound.2446749198c83be00345.png",
+    "static/media/loader.gif": "/Online-Store-Toolkit-React/static/media/loader.bcf81db1a3fe1b098b5f.gif",
+    "static/media/cart.png": "/Online-Store-Toolkit-React/static/media/cart.f04d7ce3c799d73fcd06.png",
+    "index.html": "/Online-Store-Toolkit-React/index.html",
+    "main.376d0ef6.css.map": "/Online-Store-Toolkit-React/static/css/main.376d0ef6.css.map",
+    "main.79170c6a.js.map": "/Online-Store-Toolkit-React/static/js/main.79170c6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.376d0ef6.css",
+    "static/js/main.79170c6a.js"
+  ]
+}
